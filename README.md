@@ -1,3 +1,3 @@
 # Animaflix
 
-## Projeto recriando interface netflix.
+## Projeto da Digital Innovation One, recriando a interface netflix.
