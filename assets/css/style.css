@@ -1,7 +1,13 @@
- :root{
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+
+
+:root{
     --vermelho:#e50914;
     --preto:#141414;
-}
+} 
 
 *{ 
     margin: 0;
@@ -25,11 +31,13 @@ header .container{
     
 }
 
+
+
 .logo{
     margin-left: 5px;
     color:var(--vermelho);
-    font-family: sans-serif;
-    font-size: 40px;
+    font-family:  'PT Serif', serif;
+    font-size: 35px;
 
 }
 
@@ -37,12 +45,15 @@ header .container{
     text-decoration: none;
     color: #aaa;
     margin-right: 10px;
+    font-family:'Kanit', sans-serif;
+    font-size: 15px;
     
 }
 
 
 .nav a:hover{
     color:#fff;
+    
 }
 
 /* filme principal*/
@@ -60,13 +71,16 @@ header .container{
 .filme-principal .descricao{
     margin-top: 10px;
     margin-bottom: 40px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
 
 }
+
 
 .titulo{
     margin-top: 15%;
     font-size: 40px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Fredoka', sans-serif;
 }
 
 .botao{
@@ -78,6 +92,7 @@ header .container{
     font-size: 12px;
     cursor: pointer;
     transition: .3s ease all;
+    font-family: sans-serif;
     
 }
 .botao:hover{
@@ -87,6 +102,30 @@ header .container{
 
 .botao i{
     margin-right: 5px;
+}
+
+.proximo i{
+    background-color: rgba(0,0,0,.50);
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 150px;
+    margin-top: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.anterior i{
+    background-color: rgba(0,0,0,.50);
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    margin-bottom: 150px;
+    margin-top: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+
 }
 
 .container{
