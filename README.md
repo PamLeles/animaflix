@@ -1,2 +1,3 @@
-# animaflix
-Projeto recriando interface netflix.
+# Animaflix
+
+## Projeto recriando interface netflix.
