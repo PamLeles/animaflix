@@ -1,16 +1,25 @@
-o que falta fazer:
-font-family da netflix
-colocar os botões de seta lateral da netflix
-colocar nomes no carrosel 
-carrosel de novidade
+
+CSS Filters – Aplicando filtro em imagem no CSS 
+background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),url('/assets/img/hildafundo.jpg');
+
+Métodos utilizados:
+- jquery, utilizando plugins JQuery o  owl carrousel,
+para fazer o carrosel de destaques das imagens.
 
 
-Wrapper = envelopar
-Utilizando jquery Owl Carousel
+Class e link do icons colocados nos botões:
+<button role="button" class="botao"><i class="fa-solid fa-play"></i> "ASSISTIR AGORA"</button>
+<script src="https://kit.fontawesome.com/b35d5ee440.js" crossorigin="anonymous"></script>
 
+ANIMAFLIX
+objetivo:
+Através da plataforma netflix, fazer uma plataforma apenas com animações para crianças, jovens e adultos.
 
-lista de desenhos anos 2000
+Imagem de plano de fundo:
+- hilda
 
+lista dos nomes dos desenhos
+-Desenhos anos 2000:
 As Três Espiãs Demais
 Baby Looney Tunes
 As Trigêmeas
@@ -19,18 +28,15 @@ caillou
 mansão foster
 
 
- desenhos netflix
+-Desenhos da Netflix:
 Shrek 
 A Caminho da Lua
-Como Treinar o seu Dragão
 Operação Presente
 A Família Mitchell e a Revolta das Máquinas
 rick y morty
-irmão do joreljorel
+irmão do jorel
 
-
-
-desenhos disney
+-Desenhos da Disney
 lillo e stitch
 lillo e stitch 2
 mulan
@@ -41,8 +47,9 @@ frozen
 
 
 
+_______________________________________________________________________________________________________
+links importantes:
 
-links:
-https://owlcarousel2.github.io/OwlCarousel2/index.html
-
+https://fontawesome.com/
+https://owlcarousel2.github.io/OwlCarousel2/index.html 
 https://www.themoviedb.org/movie/789708-hilda/images/backdrops?language=pt-BR
