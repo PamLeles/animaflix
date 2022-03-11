@@ -6,6 +6,8 @@ Métodos utilizados:
 - jquery, utilizando plugins JQuery o  owl carrousel,
 para fazer o carrosel de destaques das imagens.
 
+-Responsive Jquery 
+
 
 Class e link do icons colocados nos botões:
 <button role="button" class="botao"><i class="fa-solid fa-play"></i> "ASSISTIR AGORA"</button>
