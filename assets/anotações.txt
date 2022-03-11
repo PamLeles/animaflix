@@ -1,0 +1,48 @@
+o que falta fazer:
+font-family da netflix
+colocar os botões de seta lateral da netflix
+colocar nomes no carrosel 
+carrosel de novidade
+
+
+Wrapper = envelopar
+Utilizando jquery Owl Carousel
+
+
+lista de desenhos anos 2000
+
+As Três Espiãs Demais
+Baby Looney Tunes
+As Trigêmeas
+juniper lee
+caillou
+mansão foster
+
+
+ desenhos netflix
+Shrek 
+A Caminho da Lua
+Como Treinar o seu Dragão
+Operação Presente
+A Família Mitchell e a Revolta das Máquinas
+rick y morty
+irmão do joreljorel
+
+
+
+desenhos disney
+lillo e stitch
+lillo e stitch 2
+mulan
+pocahontas
+princesa e o sapo
+frozen
+
+
+
+
+
+links:
+https://owlcarousel2.github.io/OwlCarousel2/index.html
+
+https://www.themoviedb.org/movie/789708-hilda/images/backdrops?language=pt-BR
